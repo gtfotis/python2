@@ -30,8 +30,8 @@ for num in list_of_numbers:
 # This is for finding even numbers
 
 for num in list_of_numbers:
-    if number % 2 == 0:
-        print(number)
+    if num % 2 == 0:
+        print(num)
 
 
 
